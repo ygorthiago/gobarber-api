@@ -1,2 +1,2 @@
-# GoBarber's application API Rest.
+# GoBarber's API Rest.
 ## 🚧 Under construction 🚧

@@ -1,6 +1,6 @@
 // import AppError from '@shared/errors/AppError';
 import AppError from '@shared/errors/AppError';
-import { addHours, differenceInHours, isAfter } from 'date-fns';
+import { addHours, isAfter } from 'date-fns';
 import { inject, injectable } from 'tsyringe';
 import IHashProvider from '../providers/HashProvider/models/IHashProvider';
 
